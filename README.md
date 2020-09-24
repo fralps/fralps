@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+### I'm a Fullstack Web Developer
 
 - 🌱 I’m currently learning Vue JS
 
