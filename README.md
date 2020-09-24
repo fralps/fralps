@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm François 👋 🧑🏼‍💻
 ### I'm a Fullstack Web Developer
 
 - 🌱 I’m currently learning Vue JS
