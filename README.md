@@ -6,6 +6,6 @@
 </a>
         
 
-- 🌱 I’m currently learning Vue JS
+- 🌱 I’m currently learning Svelte and Github Actions
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fralps&show_icons=true&theme=cobalt)
