@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm **François**, a passionate French Fullstack Web Developer based in Lyon 🇫🇷.
+I'm **François**, a passionate French Engineering Manager, Lead Developer & Fullstack Web Developer based in Lyon 🇫🇷.
 
 🌱 I'm currently learning Svelte 🧡 and Github Actions  
 
